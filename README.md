@@ -28,25 +28,33 @@ Entering our ecosystem will enable you to get access to the most advanced live l
 
 Method sniping is an intricate business which involves a lot of analysis and manual work. DeFi-Robot automates a lot of processes and gives the sniper the ability to be 100% sure on all the variables needed before a launch.
 
+As well as our bots, get connected with the best snipers in the game via exclusive group chats reserved for users of our ecosystem.
+
+### Dynamic live listings
+
+#### Get updated by the minute of every new launch via Listings Channels
+
+DeFi-Robot has the ability to compile all the information needed for method sniping within simple easy to read live listings that update when new information becomes available.&#x20;
+
 Gather the information needed for method sniping quickly when the contract hasn't even been verified yet and set yourself apart from competitors. Use our bots as a dashboard.
 
-#### DeFi-Robot bots helps users to:&#x20;
+### Ad
+
+### Advanced bots&#x20;
+
+#### Get prepared for method sniping with the most advanced bots on the market
 
 * Decompile contracts (even unverified)
   * List functions
   * Use AI to determine enable trade method
-* Cross reference contract's unique hash byte codes against others
-* Run contract simulations
-  * Test for deadblocks
+* Cross reference contract's unique hash byte codes against others to detect scams
+* Simulate contracts
+  * Discover deadblocks
   * See latest tax changes
-  * Testing custom functions on contracts
+  * Testing custom functions
 * Perform wallet & token analysis
 
-#### Get updated by the minute of every new launch via Listings Channels
-
-DeFi-Robot has the ability to compile all the information needed within simple easy to read live listings that update when new information becomes available.&#x20;
-
-#### Want to focus on copytrading?&#x20;
+### Want to focus on copytrading?&#x20;
 
 Our token and wallet analysis bot is light-speed and produces datasets directly within Telegram, or via a downloadable spreadsheet.
 
@@ -61,11 +69,3 @@ These utilities give users an edge over their competitors by automating a lot of
 DeFi-Robot equips users with real-time analytics on token launches across three blockchains, as well as giving advanced users to re-check data using an array of funcitons and tools at their dispense.
 
 See the [tiers](what-is-defi-robot/defi-robot/tiers.md) table for an overview of what exactly you get access to by entering our ecosystem.
-
-
-
-As well as exclusive chats for connecting with fellow users,&#x20;
-
-&#x20;to gather vital information in preparation for method sniping.
-
-Get equipped with bots that can simulate - even unverified - contracts before they launch.&#x20;
