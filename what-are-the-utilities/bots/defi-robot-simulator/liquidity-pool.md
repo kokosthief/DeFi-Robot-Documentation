@@ -16,7 +16,7 @@ DeFi-Robot Simulator enables you to quickly run a command to view the liquidity 
 ### Within each listing, the contract simulator also automatically runs this function to determine the liquidity pool.
 {% endhint %}
 
-<img src="../../../.gitbook/assets/file.drawing.svg" alt="" class="gitbook-drawing">
+<img src="../../../.gitbook/assets/file.drawing (2).svg" alt="" class="gitbook-drawing">
 
 ### **This tool is useful to see the distribution of liquidity**
 

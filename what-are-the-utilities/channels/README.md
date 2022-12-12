@@ -6,19 +6,35 @@ description: >-
 
 # Channels
 
-## Live and dynamic listing bots for both Etherium and Binance Smart Chain
+## Live and dynamic listing channels
 
-The most impressive part of the DeFi-Robot are the live and dynamic live pairs that come through the three Telegram channel.
+The most impressive part of the DeFi-Robot are the live and dynamic live pairs that come through the three Telegram channel on the Ethereum, Binance Smart Chain and Arbitrum blockchains.
 
-[ETH/BSC](eth-bsc.md) lists all new live pairs with no filters.
+### [ETH/BSC](eth-bsc.md)&#x20;
 
-[ETH/BSC Deployer](eth-bsc-deployer.md) lists all new pairs where dev had a previous moonshot >50k.
+{% hint style="success" %}
+Lists all new live pairs with no filters.
+{% endhint %}
 
-[ETH/BSC Awake](eth-bsc-awake.md) lists previously sleeping pairs which have awoken because of dev activity.
+### [ETH/BSC Deployer](eth-bsc-deployer.md)
 
-<img src="../../.gitbook/assets/file.drawing (4).svg" alt="" class="gitbook-drawing">
+{% hint style="success" %}
 
-### Each listing is unique and made up of different functions which efficiently community important variables and bits of information.
+{% endhint %}
+
+#### Lists all new pairs where dev had a previous moonshot >50k.
+
+### [ETH/BSC Awake](eth-bsc-awake.md)&#x20;
+
+#### Lists previously sleeping pairs which have awoken because of dev activity.
+
+
+
+All three will produce a listing message which looks like this:
+
+<img src="../../.gitbook/assets/file.drawing (3).svg" alt="" class="gitbook-drawing">
+
+
 
 <details>
 
@@ -46,7 +62,7 @@ Where the contract functions list and callable functions are hashed.
 
 #### 3. Functions + Funding Hash
 
-Where the contract functions and the funding source of developer's wallet (Binance, Coinbase, ...)  are hashed together.&#x20;
+Where the contract functions and the funding source of developer's wallet (Binance, Coinbase, ...) are hashed together.&#x20;
 
 Usually a dev use same DEX so could be useful to find all other contracts, with same hash, from same DEX.
 
@@ -56,7 +72,7 @@ Usually a dev use same DEX so could be useful to find all other contracts, with 
 
 <summary>List functions</summary>
 
-Click `functions` and then `/start` on the next page to list all available functions. This works even with unverified contracts on the blockchain.
+Click **`functions`** and then **`/start`** on the next page to list all available functions. This works even with unverified contracts on the blockchain.
 
 </details>
 
@@ -102,7 +118,11 @@ Lists and summary of last tokens
 
 <summary>Keywords</summary>
 
-Keywords included like DIDN'T SCAM, 400K, RUGGED can quickly give you an idea what to expect of this listing.
+Quickly get an idea of what to expect with keywords such as:
+
+* DIDN'T SCAM
+* 400K
+* RUGGED&#x20;
 
 </details>
 
@@ -148,3 +168,16 @@ Live updates occur for the token listing for up to 12 hours or up until it rugs.
 * If or when it rugs
 
 </details>
+
+****
+
+## **Every tier benefits from the DeFi-Robot Simulator bot**&#x20;
+
+There are three ways the simulator is embedded within each live listing.
+
+1.  ### List functions or re-launch contract simulation in two clicks
+
+    As shown below, within the message received from one of three live listing channels, simply select their respective link to interact with the Simulator Bot.
+2.
+
+<img src="../../.gitbook/assets/file.drawing.svg" alt="" class="gitbook-drawing">
