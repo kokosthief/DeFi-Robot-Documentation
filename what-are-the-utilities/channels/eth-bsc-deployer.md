@@ -17,7 +17,7 @@ It's always recommended still to DYOR and check to see if other scams or rugs us
 
 ### You can expect to see
 
-All the normal sections of the listing that would come through the standard [ETH/BSC](eth-bsc.md) channel, as well as a section titled Dev's Previous Best Token.
+All the normal sections of the listing that would come through the standard [ETH/BSC](eth-bsc-contracts.md) channel, as well as a section titled Dev's Previous Best Token.
 
 {% hint style="info" %}
 **Top tip:**

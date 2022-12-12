@@ -16,7 +16,7 @@
 
 * [Ecosystem Overview](what-are-the-utilities/ecosystem-overview.md)
 * [Channels](what-are-the-utilities/channels/README.md)
-  * [ETH/BSC](what-are-the-utilities/channels/eth-bsc.md)
+  * [ETH/BSC Contracts](what-are-the-utilities/channels/eth-bsc-contracts.md)
   * [ETH/BSC Deployer](what-are-the-utilities/channels/eth-bsc-deployer.md)
   * [ETH/BSC Awake](what-are-the-utilities/channels/eth-bsc-awake.md)
 * [Bots](what-are-the-utilities/bots/README.md)

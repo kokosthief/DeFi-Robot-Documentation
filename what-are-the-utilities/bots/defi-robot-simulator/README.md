@@ -26,8 +26,4 @@ This powerful bot can be used as a dashboard to efficiently gather the data need
 Both the quick simulation and liquidity pool check functions are automatically run every time a live listing get's published. What's more, every dynamic live listing can list a contract's functions as well as re-launch the quick simulator in one click.
 {% endhint %}
 
-###
-
-<figure><img src="../../../.gitbook/assets/list-functions-and-re-launch-simulation.gif" alt=""><figcaption></figcaption></figure>
-
 ****

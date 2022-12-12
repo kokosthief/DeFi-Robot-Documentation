@@ -10,27 +10,25 @@ description: >-
 
 The most impressive part of the DeFi-Robot are the live and dynamic live pairs that come through the three Telegram channel on the Ethereum, Binance Smart Chain and Arbitrum blockchains.
 
-### [ETH/BSC](eth-bsc.md)&#x20;
+### [ETH/BSC](eth-bsc-contracts.md)&#x20;
 
 {% hint style="success" %}
-Lists all new live pairs with no filters.
+Lists all new contracts.
 {% endhint %}
 
 ### [ETH/BSC Deployer](eth-bsc-deployer.md)
 
 {% hint style="success" %}
-
+Lists all new contracts where dev had a previous moonshot >50k.
 {% endhint %}
-
-#### Lists all new pairs where dev had a previous moonshot >50k.
 
 ### [ETH/BSC Awake](eth-bsc-awake.md)&#x20;
 
-#### Lists previously sleeping pairs which have awoken because of dev activity.
+{% hint style="info" %}
+Lists previously sleeping contracts which have awoken because of dev activity.
+{% endhint %}
 
-
-
-All three will produce a listing message which looks like this:
+All three will produce a contract listing message which looks like this:
 
 <img src="../../.gitbook/assets/file.drawing (3).svg" alt="" class="gitbook-drawing">
 
@@ -178,6 +176,6 @@ There are three ways the simulator is embedded within each live listing.
 1.  ### List functions or re-launch contract simulation in two clicks
 
     As shown below, within the message received from one of three live listing channels, simply select their respective link to interact with the Simulator Bot.
-2.
+2. Both the quick simulation and liquidity pool check functions are automatically run every time a live listing get's published.
 
 <img src="../../.gitbook/assets/file.drawing.svg" alt="" class="gitbook-drawing">
