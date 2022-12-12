@@ -1,5 +1,5 @@
 ---
-description: Bots that automate and improve our DeFi experience.
+description: Bots that automate and improve DeFi.
 ---
 
 # DeFi-Robot
