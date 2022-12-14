@@ -1,12 +1,12 @@
 ---
-description: Bots that automate and improve DeFi.
+description: Advanced tools and analytics.
 ---
 
 # DeFi-Robot
 
 ## Welcome to the DeFi-Robot ecosystem!&#x20;
 
-DeFi-Robot is a suite of Telegram bots, channels, and groups that aim to improve a user's trading experience.&#x20;
+DeFi-Robot is a suite of Telegram bots, channels, and groups aiming to improve trading on DeFi.
 
 It currently operates on three blockchains: Ethereum, Binance Smart Chain, and Arbitrum.&#x20;
 
