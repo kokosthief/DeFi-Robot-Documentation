@@ -32,15 +32,15 @@ Entering our ecosystem will enable you to get access to the most advanced live l
 * Binance Smart Chain&#x20;
 * Arbitrum
 
-## Why?
-
-Get prepared for method sniping with the most advanced bots on the market
+#### Get prepared for method sniping with the most advanced bots on the market
 
 Method sniping is an intricate business which involves a lot of analysis and manual work.&#x20;
 
 DeFi-Robot automates a lot of processes and gives the sniper the ability to be 100% sure on all the variables needed before a launch.
 
-### Get updates by the minute of every new launch via dynamic Live Listing Channels
+## Why?
+
+### Get updates by the minute of every new launch via dynamic cive listing channels
 
 DeFi-Robot has the ability to compile all the information needed for method sniping within simple easy to read live listing.
 
