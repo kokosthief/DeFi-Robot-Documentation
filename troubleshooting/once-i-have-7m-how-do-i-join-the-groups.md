@@ -1,3 +1,9 @@
+---
+description: Connect your wallet and telegram to the Dapp to get access.
+---
+
 # Once I have 7m how do I join the groups?
 
-Follow the steps illustrated in the guide within the [Getting Started](../getting-started/) section, specifically the [Connect to Dapp](../getting-started/access-suite-via-dapp.md) step if you have already swapped enough BNB for DRBT.
+Follow the steps illustrated in the [Getting Started](../getting-started/) guide, specifically the second part: [Access suite via Dapp](../getting-started/access-suite-via-dapp.md).&#x20;
+
+The guide will explain and demonstrate how to connect your Telegram account and your private wallet holding DRBT to our Dapp, which then generates the Telegram links needed to access the suite of tools.

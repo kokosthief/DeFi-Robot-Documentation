@@ -1,3 +1,7 @@
+---
+description: Frequently asked questions.
+---
+
 # FAQs
 
 ### What are buy & sell taxes used for?
@@ -24,6 +28,8 @@ Read more about them [here](https://defi-robot.gitbook.io/docs/what-are-the-util
 Check out the [DeFi-Robot Simulator](../what-are-the-utilities/bots/defi-robot-simulator/) page for more information about this bot. It's a great utility which extends over all [Live Listing](../what-are-the-utilities/channels/) channels and has an incredible advanced feature only reserved for Tier 3 users.
 
 ### What does Awake mean?
+
+Awake refers to the state of a contract becoming awake, as in, wide awake and alert. This means that the developer has begun activity again on a sleeping contract so now it is awake and potentially live trading will occur soon after.
 
 ### What website can I use to view all LP adds and removes?
 
