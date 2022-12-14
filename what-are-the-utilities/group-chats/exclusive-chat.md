@@ -17,5 +17,5 @@ Most of our Tier 3 holders are "**Pro**" degen hunters by nature, usually with a
 {% hint style="info" %}
 **Get access:**
 
-Follow the generated links by the DeFi-Robot Dapp as outlined within the [Join Telegram Groups](../../getting-started/join-telegram-groups.md) section.
+Follow the generated links by the DeFi-Robot Dapp as outlined within the [Join Telegram Groups](broken-reference) section.
 {% endhint %}

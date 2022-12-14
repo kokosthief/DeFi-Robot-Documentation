@@ -14,8 +14,8 @@ This process involves approving and switching networks, accounting for buy and s
 
 Once these steps are completed, users will have access to the DeFi-Robot tools and group chats.
 
-### Start using our tools, join our groups and channels in three simple steps:
+### Start using our tools, join our groups and channels in two simple steps:
 
 1. [Swap Binance Coin ($BNB) for our native token $DRBT on Pancake Swap](swap-bnb-for-drbt.md)
-2. [Connect your Telegram ID to our DAPP](connect-to-dapp.md)
-3. [Join each available Telegram channel/group/bot depending on your tier](join-telegram-groups.md)
+2. [Connect your Telegram ID to our D](access-suite-via-dapp.md)app
+3. [Join each available Telegram channel/group/bot depending on your tier](broken-reference)

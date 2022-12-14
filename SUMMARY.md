@@ -9,8 +9,7 @@
 
 * [🔊 Getting Started](getting-started/README.md)
   * [Swap BNB for DRBT](getting-started/swap-bnb-for-drbt.md)
-  * [Connect to Dapp](getting-started/connect-to-dapp.md)
-  * [Join Telegram Groups](getting-started/join-telegram-groups.md)
+  * [Access suite via Dapp](getting-started/access-suite-via-dapp.md)
 
 ## What are the utilities?
 

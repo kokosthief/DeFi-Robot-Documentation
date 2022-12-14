@@ -1,0 +1,26 @@
+---
+description: >-
+  Connect your Wallet and Telegram account with our Dapp to get access to the
+  suite of channels, groups and tools.
+---
+
+# Access suite via Dapp
+
+To get access to the ecosystem, you need to connect your wallet to telegram through our Dapp, which then automatically produces invited links for you depending on your Tier level.
+
+## 1. Navigate to DeFi-Robot helper bot
+
+Once you're holding enough **$DRBT** tokens to qualify for a tier, send the command **`/dapp_match`** to our [DeFi-Robot Helper Bot.](https://t.me/DeFiRobot\_Helper\_Bot)
+
+<figure><img src="../.gitbook/assets/Screenshot 2022-11-29 at 12.28.24.png" alt=""><figcaption></figcaption></figure>
+
+You will receive a reply with a link to our [Dapp](https://dapp.defirobot.org/) and details needed to connect your Telegram ID to your wallet.
+
+> We've automated the display of your Telegram ID here so you don't have to find it yourself.
+
+## 2. Connect Wallet and Telegram in the DeFi-Robot Dapp
+
+{% embed url="https://app.arcade.software/share/ewq2DCVHS6l1t73GjcmR" %}
+
+###
+

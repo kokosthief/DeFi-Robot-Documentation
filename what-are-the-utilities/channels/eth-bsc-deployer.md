@@ -1,10 +1,10 @@
 ---
-description: Get notified of listed new pairs by reputable developers.
+description: Get notified of listed new contracts by reputable developers.
 ---
 
 # ETH/BSC Deployer
 
-## Live new pairs, filtered by deployer with previous moonshot
+## Live new contracts, filtered by deployer with previous moonshot
 
 The two listing bots called **BSC/ETH Deployer** filter contracts where the developer has had at least one successful past project where the market cap reached > 100k.
 
@@ -28,5 +28,5 @@ Check bytecode hashes by selecting it within live listing. It then automatically
 {% hint style="success" %}
 **Get access:**
 
-Follow the generated links by the DeFi-Robot Dapp as outlined within the [Join Telegram Groups](../../getting-started/join-telegram-groups.md) section to join the ETH/BSC Awake channels.
+Follow the generated links by the DeFi-Robot Dapp as outlined within the [Join Telegram Groups](broken-reference) section to join the ETH/BSC Awake channels.
 {% endhint %}

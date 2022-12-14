@@ -6,7 +6,7 @@ description: Get notified of sleeping contracts when they come awake.
 
 For Tier 3 users only there are two listing bots called BSC/ETH Awake.&#x20;
 
-## Live new pairs, filtered by the recently awaken contracts
+## Live new contracts, filtered by the recently awaken contracts
 
 Under certain criteria they parse listings, just as you would expect to see them come through the main ETH/BSC Live Listings channel. Awake bot has contracts that have been inactive for quite some time sometimes (or sleeping), when they wake, you get the alert.
 
@@ -29,5 +29,5 @@ It's recommended to check the developer wallet first if a token comes through th
 {% hint style="success" %}
 **Get access:**
 
-Follow the generated links by the DeFi-Robot Dapp as outlined within the [Join Telegram Groups](../../getting-started/join-telegram-groups.md) section to join the ETH/BSC Awake channels.
+Follow the generated links by the DeFi-Robot Dapp as outlined within the [Join Telegram Groups](broken-reference) section to join the ETH/BSC Awake channels.
 {% endhint %}

@@ -8,9 +8,9 @@ description: >-
 
 ## Live and dynamic listing channels
 
-The most impressive part of the DeFi-Robot are the live and dynamic live pairs that come through the three Telegram channel on the Ethereum, Binance Smart Chain and Arbitrum blockchains.
+The most impressive part of the DeFi-Robot are the live and dynamic live contract listings that come through the three Telegram channel for the Ethereum, Binance and Arbitrum blockchains.
 
-### [ETH/BSC](eth-bsc-contracts.md)&#x20;
+### [ETH/BSC Contracts](eth-bsc-contracts.md)&#x20;
 
 {% hint style="success" %}
 Lists all new contracts.
@@ -32,7 +32,7 @@ All three will produce a contract listing message which looks like this:
 
 <img src="../../.gitbook/assets/file.drawing (3).svg" alt="" class="gitbook-drawing">
 
-
+## Each listing can include the following
 
 <details>
 
@@ -178,4 +178,4 @@ There are three ways the simulator is embedded within each live listing.
     As shown below, within the message received from one of three live listing channels, simply select their respective link to interact with the Simulator Bot.
 2. Both the quick simulation and liquidity pool check functions are automatically run every time a live listing get's published.
 
-<img src="../../.gitbook/assets/file.drawing.svg" alt="" class="gitbook-drawing">
+<img src="../../.gitbook/assets/file.drawing (14).svg" alt="" class="gitbook-drawing">

@@ -1,12 +1,12 @@
 ---
-description: Decipher all new live pairs in one place with real-time updates.
+description: Decipher all new live contracts in one place with real-time updates.
 ---
 
-# ETH/BSC
+# ETH/BSC Contracts
 
 There are two bots, one for ETH and one for Binance that operate identically the same.
 
-## ETH/BSC lists every new live pair
+## ETH/BSC lists every new live contract
 
 This channel bot lists all new contracts deployed on their respective blockchains.&#x20;
 
@@ -23,6 +23,6 @@ View the section in Channels to learn more about each individual section of each
 {% hint style="success" %}
 **Get access:**
 
-Follow the generated links by the DeFi-Robot Dapp as outlined within the [Join Telegram Groups](../../getting-started/join-telegram-groups.md) section to join the ETH/BSC Awake channels.
+Follow the generated links by the DeFi-Robot Dapp as outlined within the [Join Telegram Groups](broken-reference) section to join the ETH/BSC Awake channels.
 {% endhint %}
 

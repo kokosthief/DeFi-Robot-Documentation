@@ -18,5 +18,5 @@ The Private Chat is reserved for all Tiers, meaning you only need the required a
 {% hint style="info" %}
 **Get access:**
 
-Follow the generated links by the DeFi-Robot Dapp as outlined within the [Join Telegram Groups](../../getting-started/join-telegram-groups.md) section.
+Follow the generated links by the DeFi-Robot Dapp as outlined within the [Join Telegram Groups](broken-reference) section.
 {% endhint %}
