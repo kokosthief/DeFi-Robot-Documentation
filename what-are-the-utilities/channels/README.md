@@ -19,24 +19,22 @@ Lists all new contracts.
 ### [ETH/BSC Deployer](eth-bsc-deployer.md)
 
 {% hint style="success" %}
-Lists all new contracts where dev had a previous moonshot >50k.
+Lists all new contracts where the developer achieved a previous moonshot >50k.
 {% endhint %}
 
 ### [ETH/BSC Awake](eth-bsc-awake.md)&#x20;
 
 {% hint style="info" %}
-Lists previously sleeping contracts which have awoken because of dev activity.
+Lists previously sleeping contracts which have awoken because of recent developer activity.
 {% endhint %}
 
-All three will produce a contract listing message which looks like this:
-
-<img src="../../.gitbook/assets/file.drawing (3).svg" alt="" class="gitbook-drawing">
+<img src="../../.gitbook/assets/file.drawing (1).svg" alt="" class="gitbook-drawing">
 
 ## Each listing can include the following
 
 <details>
 
-<summary>Token, CA, Dev etc.</summary>
+<summary>Token information</summary>
 
 First section of each listing always contains the token name, contract address and the corresponding trading ticker.
 
@@ -167,15 +165,22 @@ Live updates occur for the token listing for up to 12 hours or up until it rugs.
 
 </details>
 
-****
+## How the Simulator Bot works with Channels
 
-## **Every tier benefits from the DeFi-Robot Simulator bot**&#x20;
+{% hint style="info" %}
+There are numerous ways in which the Simulator Bot is embedded within each live listing.
+{% endhint %}
 
-There are three ways the simulator is embedded within each live listing.
+Upon each listing being generated, the Simulator Bot already determines the functions, runs a quick simulation and performs a liquidity check.&#x20;
 
-1.  ### List functions or re-launch contract simulation in two clicks
+The DeFi-Robot channel then uses this information to present the initial listing information.
 
-    As shown below, within the message received from one of three live listing channels, simply select their respective link to interact with the Simulator Bot.
-2. Both the quick simulation and liquidity pool check functions are automatically run every time a live listing get's published.
+### Dynamic List functions and Re-Lunch button
+
+What's more, the user can interact with the Simulator Bot within each listing to dynamically generate new information.
+
+Within each contract listing the user can list the functions of a contract as well as re-launch the quick contract simulator.
+
+<figure><img src="../../.gitbook/assets/list-functions-and-re-launch-simulation.gif" alt=""><figcaption></figcaption></figure>
 
 <img src="../../.gitbook/assets/file.drawing (14).svg" alt="" class="gitbook-drawing">
