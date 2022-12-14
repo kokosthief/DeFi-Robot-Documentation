@@ -32,5 +32,7 @@ Copy and paste your Telegram User ID and your Authentication Key into the fields
 
 Select '**Update Telegram ID**' button to proceed.
 
+{% embed url="https://app.arcade.software/share/IwoHjHNvD82E9XegUt9d" %}
+
 #### **Now your Telegram is connected! In the next step get access to the ecosystem!**
 
