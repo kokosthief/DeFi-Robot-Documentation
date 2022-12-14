@@ -40,7 +40,7 @@ DeFi-Robot automates a lot of processes and gives the sniper the ability to be 1
 
 ## Why?
 
-### Get updates by the minute of every new launch via dynamic cive listing channels
+### Get updates by the minute of every new launch via dynamic live listing channels
 
 DeFi-Robot has the ability to compile all the information needed for method sniping within simple easy to read live listing.
 
