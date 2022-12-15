@@ -129,6 +129,7 @@ Quickly get an idea of what to expect with keywords such as:
 The results of the initial contract simulation are returned here where you can find information on:
 
 * Buy and sell taxes
+* Transfer tax
 * Deadblocks
 * Honeypot status
 * Enable trading method

@@ -8,13 +8,9 @@ description: Advanced tools and analytics.
 
 DeFi-Robot is a suite of Telegram bots, channels, and groups aiming to improve trading on DeFi.
 
-It currently operates on three blockchains: Ethereum, Binance Smart Chain, and Arbitrum.&#x20;
+Operating on Ethereum, Binance Smart Chain, and Arbitrum, DeFi-Robot makes **method sniping** easier by automating much of the analysis needed to precision snipe.
 
-DeFi-Robot offers a range of features to automate processes and provide information for method sniping, such as live listings, contract analysis, and wallet and token analysis.&#x20;
-
-It also offers access to exclusive group chats for users to connect with other experienced traders.&#x20;
-
-DeFi-Robot aims to equip users with the most advanced tools and analytics that help them navigate the increasingly saturated world of DeFi.
+Users are given access to dynamic live listings, contract simulators and bots to perform wallet and token analyses, as well as entry to exclusive group chats for advanced snipers and traders.
 
 <img src=".gitbook/assets/file.drawing (7).svg" alt="" class="gitbook-drawing">
 
