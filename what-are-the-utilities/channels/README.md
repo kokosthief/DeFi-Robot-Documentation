@@ -28,7 +28,7 @@ Lists all new contracts where the developer achieved a previous moonshot >50k.
 Lists previously sleeping contracts which have awoken because of recent developer activity.
 {% endhint %}
 
-<img src="../../.gitbook/assets/file.drawing (1).svg" alt="" class="gitbook-drawing">
+<img src="../../.gitbook/assets/file.drawing.svg" alt="" class="gitbook-drawing">
 
 ## Each listing can include the following
 
