@@ -44,7 +44,7 @@ Buy & Sell tax: **9%** (team) + **3%** (liquidity pool)
 
 $$7000000 / 0.88 = 7955000$$
 
-Therefore, type **7840000** into the swap and in the settings panel change the slippage to between **15-20%** which should be enough to include buy tax as well as price variability.
+Therefore, type **7955000** into the swap and in the settings panel change the slippage to between **15-20%** which should be enough to include buy tax as well as price variability.
 
 Select '**Swap**' and '**Confirm Swap**'.
 
