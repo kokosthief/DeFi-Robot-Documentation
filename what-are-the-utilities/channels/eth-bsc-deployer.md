@@ -6,11 +6,11 @@ description: Get notified of listed new contracts by reputable developers.
 
 ## Live new contracts, filtered by deployer with previous moonshot
 
-The two listing bots called **BSC/ETH Deployer** filter contracts where the developer has had at least one successful past project where the market cap reached > 100k.
+The two listing bots called **BSC/ETH Deployer** filter contracts where the developer has had at least one successful past project where the total volume exceeded 50K (BSC) / 100K (ETH)
 
 ### This bot filters all contracts where:&#x20;
 
-* The deployer has already had at least one moonshot (>50K Volume)
+* The deployer has already had at least one moonshot
 * Trading not enabled yet
 
 It's always recommended still to DYOR and check to see if other scams or rugs used matching hash byte codes.
