@@ -6,9 +6,7 @@ description: Advanced tools and analytics.
 
 ## Welcome to the DeFi-Robot ecosystem!&#x20;
 
-DeFi-Robot is a suite of Telegram bots, channels, and groups aiming to improve trading on DeFi.
-
-Operating on Ethereum, Binance Smart Chain, and Arbitrum, DeFi-Robot makes **method sniping** easier by automating much of the analysis needed to precision snipe.
+DeFi-Robot makes **method sniping** easier by automating much of the analysis needed to precision snipe.
 
 Users are given access to dynamic live listings, contract simulators and bots to perform wallet and token analyses, as well as entry to exclusive group chats for advanced snipers and traders.
 
@@ -18,9 +16,13 @@ Feel free to dive deep into the documentation to learn more about what DeFi-Robo
 
 ## What is DeFi-Robot?
 
-DeFi-Robot consists of multiple Telegram bots, channels and groups which serve the same main purpose of improving your trading experience.
+DeFi-Robot is a suite of Telegram bots, channels, and groups aiming to improve trading on DeFi.
 
-Entering our ecosystem will enable you to get access to the most advanced live listings bot on the market which alone boasts an array of features that greatly out performs other available tools. See  [Ecosystem Overview](what-are-the-utilities/ecosystem-overview.md) to dive straight in.
+#### Get prepared for method sniping with the most advanced bots on the market
+
+Method sniping is an intricate business which involves a lot of analysis and manual work.&#x20;
+
+DeFi-Robot automates a lot of processes and gives the sniper the ability to be 100% sure on all the variables needed before a launch.
 
 #### Currently DeFi-Robot operates with three blockchains:
 
@@ -28,11 +30,7 @@ Entering our ecosystem will enable you to get access to the most advanced live l
 * Binance Smart Chain&#x20;
 * Arbitrum
 
-#### Get prepared for method sniping with the most advanced bots on the market
-
-Method sniping is an intricate business which involves a lot of analysis and manual work.&#x20;
-
-DeFi-Robot automates a lot of processes and gives the sniper the ability to be 100% sure on all the variables needed before a launch.
+Entering our ecosystem will enable you to get access to the most advanced live listings bot on the market which alone boasts an array of features that greatly out performs other available tools. See  [Ecosystem Overview](what-are-the-utilities/ecosystem-overview.md) to dive straight in.
 
 ## Why?
 
