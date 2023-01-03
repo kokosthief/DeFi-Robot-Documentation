@@ -11,7 +11,7 @@ Build relationships and get better together at sniping new launches. New to DeFi
 * Discuss tactics with fellow DeFi-Robot users&#x20;
 * Discover what tactics work best for other snipers
 * Discuss strategies with others
-* Review plays together that are come through [Live Listings](../channels/)
+* Review plays together that are come through [Live Listings](../deployment-listings-channels/)
 
 The Private Chat is reserved for all Tiers, meaning you only need the required amount of DRBT needed for Tier 1 to access this group chat.
 

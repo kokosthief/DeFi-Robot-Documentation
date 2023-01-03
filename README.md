@@ -1,16 +1,20 @@
 ---
-description: Advanced tools and analytics.
+description: Interactive contract listings as well as advanced bots and analysis tools.
 ---
 
-# DeFi-Robot
+# Alpha Bots & Analytics
+
+## Ready? [Get started here.](getting-started/)
+
+Simply swap BNB for DRBT and then connect to the dapp.
+
+<img src=".gitbook/assets/file.drawing (7).svg" alt="" class="gitbook-drawing">
 
 ## Welcome to the DeFi-Robot ecosystem!&#x20;
 
-DeFi-Robot makes **method sniping** easier by automating much of the analysis needed to precision snipe.
+DeFi-Robot makes **trading** and **method sniping** easier by automating much of the analysis needed to safely trade in DeFi.
 
-Users are given access to dynamic live listings, contract simulators and bots to perform wallet and token analyses, as well as entry to exclusive group chats for advanced snipers and traders.
-
-<img src=".gitbook/assets/file.drawing (7).svg" alt="" class="gitbook-drawing">
+Users are given access to dynamic live deployment listings, contract simulators and bots to perform wallet and token analyses, as well as entry to exclusive group chats for advanced snipers and traders.
 
 Feel free to dive deep into the documentation to learn more about what DeFi-Robot offers and make sure to join our general [Telegram Chat](https://t.me/DeFi\_Robot\_Portal) to ask the community any questions.
 
@@ -74,4 +78,4 @@ DeFi-Robot equips users with real-time analytics on token launches across three 
 
 As well as our bots, get connected with the best snipers in the game via exclusive group chats reserved for users of our ecosystem.
 
-See the [tiers](what-is-defi-robot/defi-robot/tiers.md) table for an overview of what exactly you get access to by entering our ecosystem.
+See the [tiers](what-is-defi-robot/alpha-bots-and-analytics/tiers.md) table for an overview of what exactly you get access to by entering our ecosystem.

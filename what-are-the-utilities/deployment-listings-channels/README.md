@@ -4,11 +4,11 @@ description: >-
   bots.
 ---
 
-# Channels
+# Deployment Listings Channels
 
-## Live and dynamic listing channels
+## Live and dynamic listing channels of new deployments
 
-The most impressive part of the DeFi-Robot are the live and dynamic live contract listings that come through the three Telegram channel for the Ethereum, Binance and Arbitrum blockchains.
+The most impressive part of the DeFi-Robot are the live and dynamic live contract listings that come through Telegram channel for the Ethereum, Binance and Arbitrum blockchains.
 
 ### [ETH/BSC Contracts](eth-bsc-contracts.md)&#x20;
 
@@ -26,6 +26,12 @@ Lists all new contracts where the developer achieved a previous moonshot >50k.
 
 {% hint style="info" %}
 Lists previously sleeping contracts which have awoken because of recent developer activity.
+{% endhint %}
+
+### ETH/BSC Alpha Deployer (beta)&#x20;
+
+{% hint style="info" %}
+Exclusive Alpha Deployer filtering pure alpha deployments
 {% endhint %}
 
 <img src="../../.gitbook/assets/file.drawing.svg" alt="" class="gitbook-drawing">

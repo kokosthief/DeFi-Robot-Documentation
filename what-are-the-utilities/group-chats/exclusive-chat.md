@@ -12,7 +12,7 @@ Most of our Tier 3 holders are "**Pro**" degen hunters by nature, usually with a
 
 * Insider discussions on tokens
 * Sharing of technical setups (nodes, bots, contracts, tools
-* Review of plays that came through the [Awake](../channels/eth-bsc-awake.md) channel
+* Review of plays that came through the [Awake](../deployment-listings-channels/eth-bsc-awake.md) channel
 
 {% hint style="info" %}
 **Get access:**
