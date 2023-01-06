@@ -30,7 +30,7 @@ DeFi-Robot automates a lot of processes and gives the sniper the ability to be 1
 
 #### Currently DeFi-Robot operates with three blockchains:
 
-* Etherium&#x20;
+* Ethereum
 * Binance Smart Chain&#x20;
 * Arbitrum
 
