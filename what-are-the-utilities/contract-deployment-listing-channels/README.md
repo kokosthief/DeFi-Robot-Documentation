@@ -4,9 +4,9 @@ description: >-
   bots.
 ---
 
-# Deployment Listings Channels
+# Contract Deployment Listing Channels
 
-## Live and dynamic listing channels of new deployments
+## Live and dynamic listing channels of new contract deployments
 
 The most impressive part of the DeFi-Robot are the live and dynamic live contract listings that come through Telegram channel for the Ethereum, Binance and Arbitrum blockchains.
 
@@ -152,9 +152,15 @@ This sections provides a list of Telegram groups which could correspond to the t
 
 <details>
 
-<summary>Socials</summary>
+<summary>Source Code Verified</summary>
 
-This sections automatically parses any socials or websites found within the contract when verified.
+This sections automatically parses any social media links or websites found within the contract when it becomes publicly verified by the deveoper.
+
+⚠️ \[Hidden Mint] at \_mint"
+
+It can also include a Hiddent Mint warning; If you see this it's recommended to check the contract. Most of the time it's used to create the initial supply (which is not the official way to do it ...), but could also be used by another function to actually mint after launch.
+
+
 
 </details>
 

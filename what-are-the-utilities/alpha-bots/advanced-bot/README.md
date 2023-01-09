@@ -2,9 +2,9 @@
 description: Functions available to call with the exclusive bot.
 ---
 
-# Exclusive Bot
+# Advanced Bot
 
-There are two powerful functions tier 3 users are able to call from within the the DeFi-Robot Exclusive Bot.
+There are multiple powerful functions in the DeFi-Robot Advanced Bot.
 
 ### Scan token for top performing wallets
 

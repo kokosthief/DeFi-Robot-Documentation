@@ -25,7 +25,7 @@ Read more about them [here](https://defi-robot.gitbook.io/docs/what-are-the-util
 
 ### How does the simulator work?
 
-Check out the [DeFi-Robot Simulator](../what-are-the-utilities/advanced-bots/contract-simulator/) page for more information about this bot. It's a great utility which extends over all [Live Listing](../what-are-the-utilities/deployment-listings-channels/) channels and has an incredible advanced feature only reserved for Tier 3 users.
+Check out the [DeFi-Robot Simulator](../what-are-the-utilities/alpha-bots/contract-simulator/) page for more information about this bot. It's a great utility which extends over all [Live Listing](../what-are-the-utilities/contract-deployment-listing-channels/) channels and has an incredible advanced feature only reserved for Tier 3 users.
 
 ### What does Awake mean?
 
@@ -37,4 +37,4 @@ Awake refers to the state of a contract becoming awake, as in, wide awake and al
 
 ### From which bot do I run the advanced simulator for?
 
-The advanced simulation is run within the [DeFi-Robot Simulator](../what-are-the-utilities/advanced-bots/contract-simulator/) bot.
+The advanced simulation is run within the [DeFi-Robot Simulator](../what-are-the-utilities/alpha-bots/contract-simulator/) bot.
