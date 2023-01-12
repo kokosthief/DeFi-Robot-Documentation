@@ -15,9 +15,9 @@
 
 * [Ecosystem Overview](what-are-the-utilities/ecosystem-overview.md)
 * [Launch Scanners](what-are-the-utilities/launch-scanners/README.md)
-  * [ETH/BSC Contracts](what-are-the-utilities/launch-scanners/eth-bsc-contracts.md)
-  * [ETH/BSC Deployer](what-are-the-utilities/launch-scanners/eth-bsc-deployer.md)
-  * [ETH/BSC Awake](what-are-the-utilities/launch-scanners/eth-bsc-awake.md)
+  * [Contracts](what-are-the-utilities/launch-scanners/contracts.md)
+  * [Deployer](what-are-the-utilities/launch-scanners/deployer.md)
+  * [Awake](what-are-the-utilities/launch-scanners/awake.md)
 * [Alpha Bots](what-are-the-utilities/alpha-bots/README.md)
   * [Contract Simulator](what-are-the-utilities/alpha-bots/contract-simulator/README.md)
     * [List Functions](what-are-the-utilities/alpha-bots/contract-simulator/list-functions.md)

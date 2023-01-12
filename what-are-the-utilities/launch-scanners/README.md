@@ -6,17 +6,15 @@ description: >-
 
 # Launch Scanners
 
-##
-
 ## Live and dynamic listing channels of new contract deployments
 
-The most impressive part of the DeFi-Robot are the live and dynamic live contract listings that come through Telegram channels for Ethereum, Binance and Arbitrum blockchains; commonly known in the space as launch scanners.
+The most impressive part of the DeFi-Robot are the live and dynamic live contract listings that come through Telegram channels for **Ethereum**, **Binance** and **Arbitrum** blockchains; commonly known in the space as _**launch scanners**_.
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>ETH/BSC Contracts</strong></td><td>Lists all new contracts.</td><td></td><td><a href="eth-bsc-contracts.md">eth-bsc-contracts.md</a></td></tr><tr><td><strong>ETH/BSC Deployer</strong></td><td></td><td>Lists all new contracts where the developer achieved a previous moonshot >50k.</td><td><a href="eth-bsc-deployer.md">eth-bsc-deployer.md</a></td></tr><tr><td><strong>ETH/BSC Awake</strong></td><td></td><td>Lists previously sleeping contracts which have awoken because of recent developer activity.</td><td><a href="eth-bsc-awake.md">eth-bsc-awake.md</a></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Contracts</strong></td><td>Lists all new contracts.</td><td></td><td><a href="contracts.md">contracts.md</a></td></tr><tr><td><strong>Deployer</strong></td><td>Lists all new contracts where the developer achieved a previous moonshot >50k.</td><td></td><td><a href="deployer.md">deployer.md</a></td></tr><tr><td><strong>Awake</strong></td><td>Lists previously sleeping contracts which have awoken because of recent developer activity.</td><td></td><td><a href="awake.md">awake.md</a></td></tr></tbody></table>
 
 ## Contracts will be displayed like the example below:&#x20;
 
-<img src="../../.gitbook/assets/file.drawing.svg" alt="" class="gitbook-drawing">
+<img src="../../.gitbook/assets/file.drawing (1).svg" alt="" class="gitbook-drawing">
 
 ## Each listing can include the following
 
