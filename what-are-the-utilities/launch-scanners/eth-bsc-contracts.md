@@ -2,7 +2,7 @@
 description: Decipher all new live contracts in one place with real-time updates.
 ---
 
-# ETH/BSC Contracts
+# Contracts
 
 There are two bots, one for ETH and one for Binance that operate identically the same.
 

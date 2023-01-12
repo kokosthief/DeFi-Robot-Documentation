@@ -2,7 +2,7 @@
 description: Get notified of sleeping contracts when they come awake.
 ---
 
-# ETH/BSC Awake
+# Awake
 
 For Tier 3 users only there are two listing bots called BSC/ETH Awake.&#x20;
 
