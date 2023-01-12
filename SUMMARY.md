@@ -14,10 +14,10 @@
 ## What are the utilities?
 
 * [Ecosystem Overview](what-are-the-utilities/ecosystem-overview.md)
-* [Contract Deployment Listing Channels](what-are-the-utilities/contract-deployment-listing-channels/README.md)
-  * [ETH/BSC Contracts](what-are-the-utilities/contract-deployment-listing-channels/eth-bsc-contracts.md)
-  * [ETH/BSC Deployer](what-are-the-utilities/contract-deployment-listing-channels/eth-bsc-deployer.md)
-  * [ETH/BSC Awake](what-are-the-utilities/contract-deployment-listing-channels/eth-bsc-awake.md)
+* [Launch Scanners](what-are-the-utilities/launch-scanners/README.md)
+  * [ETH/BSC Contracts](what-are-the-utilities/launch-scanners/eth-bsc-contracts.md)
+  * [ETH/BSC Deployer](what-are-the-utilities/launch-scanners/eth-bsc-deployer.md)
+  * [ETH/BSC Awake](what-are-the-utilities/launch-scanners/eth-bsc-awake.md)
 * [Alpha Bots](what-are-the-utilities/alpha-bots/README.md)
   * [Contract Simulator](what-are-the-utilities/alpha-bots/contract-simulator/README.md)
     * [List Functions](what-are-the-utilities/alpha-bots/contract-simulator/list-functions.md)

@@ -25,7 +25,7 @@ Read more about them [here](https://defi-robot.gitbook.io/docs/what-are-the-util
 
 ### How does the simulator work?
 
-Check out the [DeFi-Robot Simulator](../what-are-the-utilities/alpha-bots/contract-simulator/) page for more information about this bot. It's a great utility which extends over all [Live Listing](../what-are-the-utilities/contract-deployment-listing-channels/) channels and has an incredible advanced feature only reserved for Tier 3 users.
+Check out the [DeFi-Robot Simulator](../what-are-the-utilities/alpha-bots/contract-simulator/) page for more information about this bot. It's a great utility which extends over all [Live Listing](../what-are-the-utilities/launch-scanners/) channels and has an incredible advanced feature only reserved for Tier 3 users.
 
 ### What does Awake mean?
 

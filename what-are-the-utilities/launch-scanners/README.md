@@ -4,35 +4,17 @@ description: >-
   bots.
 ---
 
-# Contract Deployment Listing Channels
+# Launch Scanners
+
+##
 
 ## Live and dynamic listing channels of new contract deployments
 
-The most impressive part of the DeFi-Robot are the live and dynamic live contract listings that come through Telegram channel for the Ethereum, Binance and Arbitrum blockchains.
+The most impressive part of the DeFi-Robot are the live and dynamic live contract listings that come through Telegram channels for Ethereum, Binance and Arbitrum blockchains; commonly known in the space as launch scanners.
 
-### [ETH/BSC Contracts](eth-bsc-contracts.md)&#x20;
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>ETH/BSC Contracts</strong></td><td>Lists all new contracts.</td><td></td><td><a href="eth-bsc-contracts.md">eth-bsc-contracts.md</a></td></tr><tr><td><strong>ETH/BSC Deployer</strong></td><td></td><td>Lists all new contracts where the developer achieved a previous moonshot >50k.</td><td><a href="eth-bsc-deployer.md">eth-bsc-deployer.md</a></td></tr><tr><td><strong>ETH/BSC Awake</strong></td><td></td><td>Lists previously sleeping contracts which have awoken because of recent developer activity.</td><td><a href="eth-bsc-awake.md">eth-bsc-awake.md</a></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
 
-{% hint style="success" %}
-Lists all new contracts.
-{% endhint %}
-
-### [ETH/BSC Deployer](eth-bsc-deployer.md)
-
-{% hint style="success" %}
-Lists all new contracts where the developer achieved a previous moonshot >50k.
-{% endhint %}
-
-### [ETH/BSC Awake](eth-bsc-awake.md)&#x20;
-
-{% hint style="info" %}
-Lists previously sleeping contracts which have awoken because of recent developer activity.
-{% endhint %}
-
-### ETH/BSC Alpha Deployer (beta)&#x20;
-
-{% hint style="info" %}
-Exclusive Alpha Deployer filtering pure alpha deployments
-{% endhint %}
+## Contracts will be displayed like the example below:&#x20;
 
 <img src="../../.gitbook/assets/file.drawing.svg" alt="" class="gitbook-drawing">
 
@@ -160,6 +142,8 @@ This sections automatically parses any social media links or websites found with
 
 It can also include a Hiddent Mint warning; If you see this it's recommended to check the contract. Most of the time it's used to create the initial supply (which is not the official way to do it ...), but could also be used by another function to actually mint after launch.
 
+Most of the time it's used to create a rug pull, even if liquidity is locked.
+
 
 
 </details>
@@ -178,10 +162,10 @@ Live updates occur for the token listing for up to 12 hours or up until it rugs.
 
 </details>
 
-## How the Simulator Bot works with Channels
+## How the Simulator Bot works with Launch Scanner
 
 {% hint style="info" %}
-There are numerous ways in which the Simulator Bot is embedded within each live listing.
+There are numerous ways in which the Simulator Bot is embedded within each live listing of contract deployments
 {% endhint %}
 
 Upon each listing being generated, the Simulator Bot already determines the functions, runs a quick simulation and performs a liquidity check.&#x20;
