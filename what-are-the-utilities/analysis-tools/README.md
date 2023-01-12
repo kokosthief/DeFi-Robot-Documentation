@@ -1,10 +1,12 @@
 ---
-description: Bots are powerful tools utilising Telegram to upgrade the defi experience
+description: Bots are powerful tools utilizing Telegram to upgrade the DeFi experience
 ---
 
-# Alpha Bots
+# Analysis Tools
 
-All of the utilities by DeFi-Robot make use of Telegram in some way or another. Each bot listed below connects to Telegram to perform all the functions listed and explain within each page.
+All of the utilities by DeFi-Robot make use of Telegram in some way or another.&#x20;
+
+Each bot listed below connects to Telegram to perform all the functions listed and explain within each page.
 
 * [Contract Simulator](contract-simulator/)
 * [Advanced Bot](advanced-bot/)

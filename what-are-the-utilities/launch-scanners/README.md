@@ -1,7 +1,5 @@
 ---
-description: >-
-  Stay on top of all new pairs via live listing channels and their connected
-  bots.
+description: Stay on top of all newly listed contracts
 ---
 
 # Launch Scanners
@@ -10,25 +8,25 @@ description: >-
 
 The most impressive part of the DeFi-Robot are the live and dynamic live contract listings that come through Telegram channels for **Ethereum**, **Binance** and **Arbitrum** blockchains; commonly known in the space as _**launch scanners**_.
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Contracts</strong></td><td>Lists all new contracts.</td><td></td><td><a href="eth-bsc-contracts.md">eth-bsc-contracts.md</a></td></tr><tr><td><strong>Deployer</strong></td><td>Lists all new contracts where the developer achieved a previous moonshot >50k.</td><td></td><td><a href="eth-bsc-deployer.md">eth-bsc-deployer.md</a></td></tr><tr><td><strong>Awake</strong></td><td>Lists previously sleeping contracts which have awoken because of recent developer activity.</td><td></td><td><a href="eth-bsc-awake.md">eth-bsc-awake.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Contracts</strong></td><td>Lists all new contracts</td><td></td><td><a href="eth-bsc-contracts.md">eth-bsc-contracts.md</a></td></tr><tr><td><strong>Deployer</strong></td><td>Lists all new contracts where the developer achieved a previous moonshot >50k</td><td></td><td><a href="eth-bsc-deployer.md">eth-bsc-deployer.md</a></td></tr><tr><td><strong>Awake</strong></td><td>Lists previously sleeping contracts which have awoken because of recent developer activity</td><td></td><td><a href="eth-bsc-awake.md">eth-bsc-awake.md</a></td></tr></tbody></table>
 
 ## Contracts will be displayed like the example below:&#x20;
 
 <img src="../../.gitbook/assets/file.drawing.svg" alt="" class="gitbook-drawing">
 
-## Each listing can include the following
+## More information regarding certain sections:
 
 <details>
 
-<summary>Token information</summary>
+<summary>List functions</summary>
 
-First section of each listing always contains the token name, contract address and the corresponding trading ticker.
+Click **`functions`** and then **`/start`** on the next page to list all available functions. This works even with unverified contracts on the blockchain.
 
 </details>
 
 <details>
 
-<summary>Bytecode hashes </summary>
+<summary>Search Hashes</summary>
 
 Included are three hashes all clickable so you can quickly cross-reference previous launches for matching hashes.&#x20;
 
@@ -52,25 +50,17 @@ Usually a dev use same DEX so could be useful to find all other contracts, with 
 
 <details>
 
-<summary>List functions</summary>
+<summary>Contract Simulation</summary>
 
-Click **`functions`** and then **`/start`** on the next page to list all available functions. This works even with unverified contracts on the blockchain.
+The results of the initial contract simulation are returned here where you can find information on:
 
-</details>
+* Buy and sell taxes
+* Transfer tax
+* Deadblocks
+* Honeypot status
+* Enable trading method
 
-<details>
-
-<summary>Developer Wallet</summary>
-
-See the developer wallet and where it's funding came from as well as age of wallet.
-
-</details>
-
-<details>
-
-<summary>Tokenomics and links</summary>
-
-Here available is the total supply, decimals, and all necessary links about the contract.
+Use the Re-Launch button to redo the contract simulation at any time. Useful to double check taxes for any changes.
 
 </details>
 
@@ -78,7 +68,7 @@ Here available is the total supply, decimals, and all necessary links about the 
 
 <summary> Dev's Previous Launches</summary>
 
-Split into two sections:
+Split into three sections:
 
 #### Dev's previous Best Token
 
@@ -94,37 +84,19 @@ Lists and summary of last tokens
 * Buys | Sells
 * Links
 
-</details>
-
-<details>
-
-<summary>Keywords</summary>
+#### **Keywords**
 
 Quickly get an idea of what to expect with keywords such as:
 
 * DIDN'T SCAM
 * 400K
-* RUGGED&#x20;
+* RUGGED
 
 </details>
 
 <details>
 
-<summary>Contract Simulation</summary>
-
-The results of the initial contract simulation are returned here where you can find information on:
-
-* Buy and sell taxes
-* Transfer tax
-* Deadblocks
-* Honeypot status
-* Enable trading method
-
-</details>
-
-<details>
-
-<summary>Potential Telegram Groups</summary>
+<summary>Potential Telegrams</summary>
 
 This sections provides a list of Telegram groups which could correspond to the token launch.
 
@@ -132,7 +104,7 @@ This sections provides a list of Telegram groups which could correspond to the t
 
 <details>
 
-<summary>Source Code Verified</summary>
+<summary>Source Code Verified - Socials</summary>
 
 This sections automatically parses any social media links or websites found within the contract when it becomes publicly verified by the deveoper.
 
