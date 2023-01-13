@@ -4,7 +4,7 @@ description: This function produces a list of functions from the contract
 
 # Quick Simulation
 
-<img src="../../../.gitbook/assets/file.drawing (6).svg" alt="" class="gitbook-drawing">
+<img src="../../../.gitbook/assets/file.drawing (5).svg" alt="" class="gitbook-drawing">
 
 {% hint style="info" %}
 **Re-Launching a quick simulation is useful:**

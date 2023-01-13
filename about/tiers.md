@@ -8,11 +8,13 @@ DeFi-Robot adopts a three tier system to operate the tools within our ecosystem 
 
 ## Token requirements
 
-<img src="../../.gitbook/assets/file.drawing (8).svg" alt="" class="gitbook-drawing">
+<img src="../.gitbook/assets/file.drawing (3).svg" alt="" class="gitbook-drawing">
 
-Simply [swap](https://pancakeswap.finance/swap?outputCurrency=0x1a0ffdb73dd942f999fcdc4ecddcadb4c7e0b592\&chainId=56) the specified amount of DRBT tokens via [Pancake Swap](https://pancakeswap.finance/swap?outputCurrency=0x1a0ffdb73dd942f999fcdc4ecddcadb4c7e0b592\&chainId=56) to start using the DeFi-Robot tools. Below you can see the amount needed for the three tiers we offer.&#x20;
+Simply swap the specified amount of DRBT tokens via [Uniswap](https://app.uniswap.org/) to start using the DeFi-Robot utilities.&#x20;
 
-More information on how to swap BNB for DRBT can be found on the next pages [Getting Started](../../getting-started/).
+Below you can see the amount needed for the three tiers we offer.&#x20;
+
+More information on how to swap ETH for DRBT can be found on the next pages [Getting Started](getting-started/).
 
 ## Tier perks
 
@@ -29,10 +31,11 @@ Below you can see exactly from what utilities are accessible by which of the thr
 | <p><strong>Light Contract Simulator</strong></p><p>Re-launch the initial contract simulation to check again if variables changed to determine HP etc.</p>                                    | <mark style="color:red;">**x**</mark>   | <mark style="color:green;">**✓**</mark> | <mark style="color:green;">**✓**</mark> |
 | <p><strong>Advanced Contract Simulator</strong><br><strong></strong>Run an advanced contract simulation on any contract anytime, check LP, determine taxes etc. </p>                         | <mark style="color:red;">**x**</mark>   | <mark style="color:red;">**x**</mark>   | <mark style="color:green;">**✓**</mark> |
 | <p><strong>Exclusive Bot</strong> <br><strong></strong>Fast and powerful bot to run a full wallet check &#x26; token analysis.</p>                                                           | <mark style="color:red;">**x**</mark>   | <mark style="color:red;">**x**</mark>   | <mark style="color:green;">**✓**</mark> |
-| <p><strong>ETH Contracts</strong><br><strong></strong>ETH Listings Telegram channel inc. contract verification, socials, LP added, enabled trading &#x26; rug detection notifications</p>    | <mark style="color:red;">**x**</mark>   | <mark style="color:green;">**✓**</mark> | <mark style="color:green;">**✓**</mark> |
-| <p><strong>ETH Deployer</strong><br>ETH Listings with a previous project that had > 100K volume</p>                                                                                          | <mark style="color:red;">**x**</mark>   | <mark style="color:green;">**✓**</mark> | <mark style="color:green;">**✓**</mark> |
-| <p><strong>ETH Awake</strong></p><p>ETH Listings whereby dormant devs are waking up</p>                                                                                                      | <mark style="color:red;">**x**</mark>   | <mark style="color:red;">**x**</mark>   | <mark style="color:green;">**✓**</mark> |
+| <p><strong>ETH Contracts</strong><br><strong></strong>ETH unfiltered launch scanner inc. contract simulator, hashes search, socials, live alerts and more.</p>                               | <mark style="color:red;">**x**</mark>   | <mark style="color:green;">**✓**</mark> | <mark style="color:green;">**✓**</mark> |
+| <p><strong>ETH Deployer</strong><br>ETH launch scanner filtered by dev with a previous project that had > 100K volume</p>                                                                    | <mark style="color:red;">**x**</mark>   | <mark style="color:green;">**✓**</mark> | <mark style="color:green;">**✓**</mark> |
+| <p><strong>ETH Awake</strong></p><p>ETH launch scanner filtered by dormant devs are waking up</p>                                                                                            | <mark style="color:red;">**x**</mark>   | <mark style="color:red;">**x**</mark>   | <mark style="color:green;">**✓**</mark> |
 | <p><strong>Exclusive Chat</strong><br><strong></strong>More exclusive Telegram group for experienced snipers to share</p>                                                                    | <mark style="color:red;">**x**</mark>   | <mark style="color:red;">**x**</mark>   | <mark style="color:green;">**✓**</mark> |
+| <p><strong>ETH Alpha Deployer (beta)</strong></p><p>ETH Listings whereby dormant devs are waking up</p>                                                                                      | <mark style="color:red;">**x**</mark>   | <mark style="color:red;">**x**</mark>   | <mark style="color:green;">**✓**</mark> |
 
 {% hint style="info" %}
 **Which tier best suits your needs?**

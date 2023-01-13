@@ -17,16 +17,16 @@ It's always recommended still to DYOR and check to see if other scams or rugs us
 
 ### You can expect to see
 
-All the normal sections of the listing that would come through the standard [Contracts Channel](eth-bsc-contracts.md), as well as a section titled Dev's Previous Best Token.
+All listings from [Contracts](contracts.md) that include the **Dev's Previous Best Token** section.
 
 {% hint style="info" %}
 **Top tip**
 
-Check bytecode hashes by selecting it within live listing. It then automatically searches Telegram through all previous messages.
+Check hashes by selecting it within live listing. It then automatically searches Telegram through all previous messages.
 {% endhint %}
 
 {% hint style="success" %}
 **Get access**
 
-Follow the generated links by the DeFi-Robot Dapp as outlined within the [Access suite via Dapp](../../getting-started/access-suite-via-dapp.md) section.
+Follow the generated links by the DeFi-Robot Dapp as outlined within the [Access suite via Dapp](../../about/getting-started/2.-access-suite-via-dapp.md) section.
 {% endhint %}

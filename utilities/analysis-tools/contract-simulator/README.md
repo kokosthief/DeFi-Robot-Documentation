@@ -21,9 +21,11 @@ This powerful bot can be used as a dashboard to efficiently gather the data need
 * [Advanced Simulation](./#advanced-simulation)
 
 {% hint style="info" %}
-**List Functions, Quick Simulator and LP Check are all implemented within each** [**listings channel**](../../launch-scanners/)**.**
+**List Functions, Quick Simulator and LP Check are all implemented within each** [**launch scanner**](../../launch-scanners/)**.**
 
-Both the quick simulation and liquidity pool check functions are automatically run every time a live listing get's published. What's more, every dynamic live listing can list a contract's functions as well as re-launch the quick simulator in one click.
+Both the quick simulation and liquidity pool check functions are automatically run every time a live listing get's published.&#x20;
+
+What's more, every dynamic live listing can list a contract's functions as well as re-launch the quick simulator in one click.
 {% endhint %}
 
 ****

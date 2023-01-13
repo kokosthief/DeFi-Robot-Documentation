@@ -4,7 +4,7 @@ description: Decipher all new live contracts in one place with real-time updates
 
 # Contracts
 
-There are two bots, one for ETH and one for Binance that operate identically the same.
+All Launch scanners entitled Contracts work the same for ETH, BSC and Arbitrum.
 
 ## All new contract
 
@@ -12,7 +12,7 @@ This channel bot lists all new contracts deployed on their respective blockchain
 
 Each listing dynamically updates when new information becomes available, continually for 90 minutes or up until (if) the contract rugs.
 
-View the previous page [Channels](./) to learn more about each individual section of every new live contract listing.
+View the [Launch Scanners](./) to learn more about what each individual section of every new live contract deployment listing can include.
 
 {% hint style="info" %}
 **Not each listing will be the same**
@@ -23,6 +23,6 @@ For example, all listings that come through will provide contract simulation res
 {% hint style="success" %}
 **Get access**
 
-Follow the generated links by the DeFi-Robot Dapp as outlined within the [Access suite via Dapp](../../getting-started/access-suite-via-dapp.md) section.
+Follow the generated links by the DeFi-Robot Dapp as outlined within the [Access suite via Dapp](../../about/getting-started/2.-access-suite-via-dapp.md) section.
 {% endhint %}
 

@@ -13,7 +13,13 @@ description: Frequently asked questions.
 
 View the lock certificate on [Mudra Manager](https://mudra.website/?certificate=yes\&type=0\&lp=0xadcfcb6feffda4087c6a4273bb78fa29a446f230) to see when the liquidity lock expires for the DeFi-Robot native token of DRBT.
 
-### What do the bytecode hashes mean?
+### In what way does the launch scanner auto-update?
+
+See when trading is enabled, notify if the contract is rugged or when, plus more...
+
+Read more about it [here](https://docs.defirobot.org/what-are-the-utilities/launch-scanners#live-updates).
+
+### What do the hashes mean?
 
 A hashed bytecode is a smaller version of a bytecode which is representing one of three variables:
 
@@ -21,11 +27,11 @@ A hashed bytecode is a smaller version of a bytecode which is representing one o
 * Listed functions
 * List of available funcitons + funding source
 
-Read more about them [here](https://defi-robot.gitbook.io/docs/what-are-the-utilities/channels#bytecode-hashes).
+Read more about them [here](https://docs.defirobot.org/what-are-the-utilities/launch-scanners#search-hashes).
 
 ### How does the simulator work?
 
-Check out the [DeFi-Robot Simulator](../what-are-the-utilities/analysis-tools/contract-simulator/) page for more information about this bot. It's a great utility which extends over all [Live Listing](../what-are-the-utilities/launch-scanners/) channels and has an incredible advanced feature only reserved for Tier 3 users.
+Check out the [Contract Simulator](../utilities/analysis-tools/contract-simulator/) page for more information about this bot. It's a great utility which extends over all [Launch Scanners](../utilities/launch-scanners/) and has an incredible advanced feature only reserved for Tier 3 users.
 
 ### What does Awake mean?
 
@@ -37,4 +43,4 @@ Awake refers to the state of a contract becoming awake, as in, wide awake and al
 
 ### From which bot do I run the advanced simulator for?
 
-The advanced simulation is run within the [DeFi-Robot Simulator](../what-are-the-utilities/analysis-tools/contract-simulator/) bot.
+The advanced simulation is run within the [Contract Simulator](../utilities/analysis-tools/contract-simulator/) bot.

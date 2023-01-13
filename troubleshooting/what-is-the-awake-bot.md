@@ -4,7 +4,7 @@ description: Our most exclusive accessible by Tier 3 users.
 
 # What is the Awake bot?
 
-The [Awake](../what-are-the-utilities/launch-scanners/eth-bsc-awake.md) listing channel finds sleeping contracts and notifies you when they come back awake.
+The [Awake](../utilities/launch-scanners/awake.md) listing channel finds sleeping contracts and notifies you when they come back awake.
 
 Hence why they are described as becoming "awake".&#x20;
 

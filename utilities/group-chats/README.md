@@ -6,7 +6,7 @@ description: There are three main group chats from DeFi-Robot.
 
 All of our utilities are accessible through Telegram Groups, including our group chats where users can share, collaborate and connect.
 
-You'll need to hold a certain amount of $DRBT tokens to access the [Private](private-chat.md) and [Exclusive](exclusive-chat.md) Chats different groups. To find out how much exactly see [Tiers](../../what-is-defi-robot/alpha-bots-and-analytics/tiers.md).
+You'll need to hold a certain amount of $DRBT tokens to access the [Private](private-chat.md) and [Exclusive](exclusive-chat.md) Chats different groups. To find out how much exactly see [Tiers](../../about/tiers.md).
 
 ### There are three group chats:
 
