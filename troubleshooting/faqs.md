@@ -11,7 +11,7 @@ description: Frequently asked questions.
 
 ### How long is the liquidity locked for DRBT?
 
-View the lock certificate on [Mudra Manager](https://mudra.website/?certificate=yes\&type=0\&lp=0xadcfcb6feffda4087c6a4273bb78fa29a446f230) to see when the liquidity lock expires for the DeFi-Robot native token of DRBT.
+View the lock certificate on [Unicrypt](https://app.unicrypt.network/amm/uni-v2/pair/0x032896B951991C5977b4e34e49BbC487e70B61AD) to see when the liquidity lock expires for the DeFi-Robot native token of DRBT.
 
 ### In what way does the launch scanner auto-update?
 

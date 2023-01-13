@@ -37,8 +37,8 @@
 * [FAQs](troubleshooting/faqs.md)
 * [How does the tier 3 differ from tier 2?](troubleshooting/how-does-the-tier-3-differ-from-tier-2.md)
 * [What is the Awake bot?](troubleshooting/what-is-the-awake-bot.md)
-* [Once I have 7m how do I join the groups?](troubleshooting/once-i-have-7m-how-do-i-join-the-groups.md)
-* [How does the simulator work?](troubleshooting/how-does-the-simulator-work.md)
+* [Once I have 6m how do I join the groups?](troubleshooting/once-i-have-6m-how-do-i-join-the-groups.md)
+* [How does the contract simulator work?](troubleshooting/how-does-the-contract-simulator-work.md)
 
 ## Othertools
 
