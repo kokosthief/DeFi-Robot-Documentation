@@ -40,8 +40,8 @@
 * [Once I have 6m how do I join the groups?](troubleshooting/once-i-have-6m-how-do-i-join-the-groups.md)
 * [How does the contract simulator work?](troubleshooting/how-does-the-contract-simulator-work.md)
 
-## Othertools
+## Other tools
 
-* [Snipers](othertools/snipers.md)
-* [Pushover](othertools/pushover.md)
-* [CoinScan](othertools/coinscan.md)
+* [Snipers](other-tools/snipers.md)
+* [Pushover](other-tools/pushover.md)
+* [CoinScan](other-tools/coinscan.md)

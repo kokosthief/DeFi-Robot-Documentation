@@ -39,7 +39,7 @@ Awake refers to the state of a contract becoming awake, as in, wide awake and al
 
 ### What website can I use to view all LP adds and removes?
 
-[CoinScan](../othertools/coinscan.md) is a great tool for live data regarding all contract transactions including liquidity adding or removals. Not only this, it can generate pending transactions from the memepool so you can gather even more data whilst trading.
+[CoinScan](../other-tools/coinscan.md) is a great tool for live data regarding all contract transactions including liquidity adding or removals. Not only this, it can generate pending transactions from the memepool so you can gather even more data whilst trading.
 
 ### From which bot do I run the advanced simulator for?
 
