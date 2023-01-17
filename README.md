@@ -5,7 +5,7 @@ description: An intro for new users about the DeFi-Robot ecosystem.
 # 👋 Welcome to DeFi-Robot
 
 {% hint style="info" %}
-**Update:** the migration from BSC to ETH occurs 13th January 6-10pm (UTC)
+**Update:** migration from BSC to ETH was a success. Read more [here](https://medium.com/@defi-robot/website-migration-2fba14214d9a).
 {% endhint %}
 
 ## Welcome to the DeFi-Robot ecosystem!&#x20;
