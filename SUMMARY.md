@@ -42,6 +42,5 @@
 
 ## Other tools
 
-* [Snipers](other-tools/snipers.md)
 * [Pushover](other-tools/pushover.md)
 * [CoinScan](other-tools/coinscan.md)
