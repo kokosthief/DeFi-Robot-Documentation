@@ -35,7 +35,7 @@ Below you can see exactly from what utilities are accessible by which of the thr
 | <p><strong>ETH Deployer</strong><br>ETH launch scanner filtered by dev with a previous project that had > 100K volume</p>                                                                    | <mark style="color:red;">**x**</mark>   | <mark style="color:green;">**✓**</mark> | <mark style="color:green;">**✓**</mark> |
 | <p><strong>ETH Awake</strong></p><p>ETH launch scanner filtered by dormant devs are waking up</p>                                                                                            | <mark style="color:red;">**x**</mark>   | <mark style="color:red;">**x**</mark>   | <mark style="color:green;">**✓**</mark> |
 | <p><strong>Exclusive Chat</strong><br><strong></strong>More exclusive Telegram group for experienced snipers to share</p>                                                                    | <mark style="color:red;">**x**</mark>   | <mark style="color:red;">**x**</mark>   | <mark style="color:green;">**✓**</mark> |
-| <p><strong>ETH Alpha Deployer (beta)</strong></p><p>ETH Listings whereby dormant devs are waking up</p>                                                                                      | <mark style="color:red;">**x**</mark>   | <mark style="color:red;">**x**</mark>   | <mark style="color:green;">**✓**</mark> |
+| <p><strong>ETH Alpha Deployer</strong></p><p>Same as ETH Deployer, but checking past projects of wallets connected to Dev's wallet, up to 5 "jumps" away!</p>                                | <mark style="color:red;">**x**</mark>   | <mark style="color:red;">**x**</mark>   | <mark style="color:green;">**✓**</mark> |
 
 {% hint style="info" %}
 **Which tier best suits your needs?**
