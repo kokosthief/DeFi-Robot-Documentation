@@ -4,27 +4,27 @@ description: Get notified of sleeping contracts when they come awake.
 
 # Awake
 
-For Tier 3 users only there are two listing bots called BSC/ETH Awake.&#x20;
+> For **Tier 3 users only** there are two listing bots called BSC/ETH Awake.&#x20;
 
-## Live new contracts, filtered by the recently awaken contracts
+## Contracts filtered by the recently becoming awake
 
-Under certain criteria they parse listings, just as you would expect to see them come through the main ETH/BSC Live Listings channel.&#x20;
+Under certain criteria they parse listings, just as you would expect to see them come through the main ETH/BSC [Contracts Launch Scanner](contracts.md).&#x20;
 
-Awake bot has contracts that have been inactive for quite some time sometimes (or sleeping), when they wake, you get the alert.
+However, the Awake bot only includes contracts that have been inactive (sleeping), until this point, whereby they are becoming awake with developer activity.
 
-### This listing bot monitors contracts that pass the following conditions:
+**Awake** filters contracts on the following conditions:
 
 * Token was created more than 2 hours prior
 * Trading not enabled yet
 * Dev just approved the contract
 
+> Usually the **developer** approves a contract right before adding liquidity to the pool.
+
+Useful to help find stealth or insider launches which might go unnoticed otherwise.
+
 {% hint style="info" %}
-**Usually the developer approves a contract right before adding liquidity pool.**
+It's recommended to check the developer wallet first if a token comes through the Alert channel, to properly DYOR and investigate the token launch.
 {% endhint %}
-
-It's a great bot to help find those stealth / insider launches which might go unnoticed otherwise. But definitely not a whole solution for finding them.
-
-It's recommended to check the developer wallet first if a token comes through the Alert channel, to properly DYOR and investigate what is going on.&#x20;
 
 {% hint style="success" %}
 **Get access**

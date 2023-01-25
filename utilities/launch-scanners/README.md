@@ -6,11 +6,13 @@ description: Stay on top of all newly listed contracts
 
 ## Live and dynamic listing channels of newly deployed contracts
 
-The most impressive part of the DeFi-Robot are the live and dynamic live contract listings that come through Telegram channels for **Ethereum**, **Binance** and **Arbitrum** blockchains; commonly known in the space as _**launch scanners**_.
+The most impressive part of DeFi-Robot are the live and dynamic launch scanners that list and filter all contract deployments on the **Ethereum**, **Binance Smart Chain** and **Arbitrum** blockchains.
 
-Read more about our three main launch scanners and check below for a diagram of what to expect.
+### There are four launch scanners
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Contracts</strong></td><td>Lists all newly deployed contracts with no filters or blacklists.</td><td></td><td><a href="contracts.md">contracts.md</a></td></tr><tr><td><strong>Deployer</strong></td><td>Lists all new contracts where the developer achieved a previous moonshot >50k</td><td></td><td><a href="deployer.md">deployer.md</a></td></tr><tr><td><strong>Awake</strong></td><td>Lists previously sleeping contracts which have awoken because of recent developer activity</td><td></td><td><a href="awake.md">awake.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Contracts</strong></td><td>Scans all newly deployed contracts on the blockchain with no filters or blacklists</td><td></td><td><a href="contracts.md">contracts.md</a></td></tr><tr><td><strong>Deployer</strong></td><td>Scans for contracts where the developer achieved a previous moonshot >50k</td><td></td><td><a href="deployer.md">deployer.md</a></td></tr><tr><td><strong>Awake</strong></td><td>Lists previously sleeping contracts which have awoken because of recent developer activity</td><td></td><td><a href="awake.md">awake.md</a></td></tr><tr><td><strong>Alpha Deployer</strong></td><td>Checks past deployer projects inc. connected wallets from 5 jumps away</td><td></td><td><a href="alpha-deployer.md">alpha-deployer.md</a></td></tr></tbody></table>
+
+### Information presented via telegram can some or all of the following
 
 <img src="../../.gitbook/assets/file.drawing (6).svg" alt="" class="gitbook-drawing">
 

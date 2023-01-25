@@ -4,9 +4,9 @@ description: Decipher all new live contracts in one place with real-time updates
 
 # Contracts
 
-All Launch scanners entitled Contracts work the same for ETH, BSC and Arbitrum.
+> All launch scanners entitled **Contracts** work the same for ETH, BSC and Arbitrum.
 
-## All new contract
+## All newly deployed contracts
 
 This channel bot lists all new contracts deployed on their respective blockchains.&#x20;
 

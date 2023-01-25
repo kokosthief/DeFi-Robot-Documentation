@@ -35,7 +35,13 @@ Check out the [Contract Simulator](../utilities/analysis-tools/contract-simulato
 
 ### What does Awake mean?
 
-Awake refers to the state of a contract becoming awake, as in, wide awake and alert. This means that the developer has begun activity again on a sleeping contract so now it is awake and potentially live trading will occur soon after.
+Awake refers to the state of a contract becoming awake, as in, wide awake and alert.&#x20;
+
+This means that the developer has begun activity again on a sleeping contract so now it is awake and potentially live trading will occur soon after.
+
+The [Awake](../utilities/launch-scanners/awake.md) launch scanner finds sleeping contracts created already sometime ago and notifies you when they come back awake because of new developer activity indicating it may launch soon.&#x20;
+
+A sleeping contract means it has been, but only recently
 
 ### What website can I use to view all LP adds and removes?
 

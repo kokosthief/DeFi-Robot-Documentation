@@ -17,6 +17,7 @@
   * [Contracts](utilities/launch-scanners/contracts.md)
   * [Deployer](utilities/launch-scanners/deployer.md)
   * [Awake](utilities/launch-scanners/awake.md)
+  * [Alpha Deployer](utilities/launch-scanners/alpha-deployer.md)
 * [Analysis Tools](utilities/analysis-tools/README.md)
   * [Contract Simulator](utilities/analysis-tools/contract-simulator/README.md)
     * [List Functions](utilities/analysis-tools/contract-simulator/list-functions.md)
@@ -35,8 +36,8 @@
 ## Troubleshooting
 
 * [FAQs](troubleshooting/faqs.md)
+* [What is the Alpha Deployer?](troubleshooting/what-is-the-alpha-deployer.md)
 * [How does the tier 3 differ from tier 2?](troubleshooting/how-does-the-tier-3-differ-from-tier-2.md)
-* [What is the Awake bot?](troubleshooting/what-is-the-awake-bot.md)
 * [Once I have 6m how do I join the groups?](troubleshooting/once-i-have-6m-how-do-i-join-the-groups.md)
 * [How does the contract simulator work?](troubleshooting/how-does-the-contract-simulator-work.md)
 
