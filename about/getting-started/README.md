@@ -7,7 +7,7 @@ description: How to get started using the DeFi-Robot ecosystem.
 ## Get ready to upgrade your workflow &#x20;
 
 * [Swap ETH for $DRBT on Uniswap](1.-swap-eth-for-drbt.md)
-* [Access our suite via Dapp by connecting your Wallet & Telegram](2.-access-suite-via-dapp.md)
+* [Access our suite via Dapp by connecting your Wallet & Telegram](2.-access-bots-via-dapp.md)
 
 > _**Here we walk you through the steps to access our suite of tools, channels and groups so you can start trading more effectively, efficiently and improve your life as a pro investor.**_
 

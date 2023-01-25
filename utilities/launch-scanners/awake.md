@@ -23,11 +23,7 @@ However, the Awake bot only includes contracts that have been inactive (sleeping
 Useful to help find stealth or insider launches which might go unnoticed otherwise.
 
 {% hint style="info" %}
-It's recommended to check the developer wallet first if a token comes through the Alert channel, to properly DYOR and investigate the token launch.
-{% endhint %}
+**Recommended**:
 
-{% hint style="success" %}
-**Get access**
-
-Follow the generated links by the DeFi-Robot Dapp as outlined within the [Access suite via Dapp](../../about/getting-started/2.-access-suite-via-dapp.md) section to join the ETH/BSC Awake channels.
+Check developer wallet to properly DYOR and investigate each token deployment.
 {% endhint %}

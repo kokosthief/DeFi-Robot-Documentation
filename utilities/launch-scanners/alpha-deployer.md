@@ -4,29 +4,29 @@ description: Get notified of listed new contracts by reputable developers.
 
 # Alpha Deployer
 
-## Live new contracts, filtered by deployer with previous moonshot
+{% hint style="success" %}
+**Get access:**
 
-The two listing bots called **BSC/ETH Deployer** filter contracts where the developer has had at least one successful past project where the total volume exceeded 50K (BSC) / 100K (ETH)
+Follow the generated links from the **Dapp** as outlined in [Access Bots via Dapp](../../about/getting-started/2.-access-bots-via-dapp.md).
+{% endhint %}
 
-### This bot filters all contracts where:&#x20;
+## Contracts filtered by deployers with previous moonshots + up to 5 connected wallets&#x20;
+
+Alpha **Deployer** filters contracts where the developers have had at least one successful past project where the total volume exceeded 100K (ETH) and searchings across (upto) five connected wallets by "jumping" from one to the next.
+
+**Alpha Deployer** filters contracts on the following conditions:
 
 * The deployer has already had at least one moonshot
 * Trading not enabled yet
 
-It's always recommended still to DYOR and check to see if other scams or rugs used matching hash byte codes.
+And then searches across multiple deployer wallets that are connected up to five jumps.
 
 ### You can expect to see
 
-All listings from [Contracts](contracts.md) that include the **Dev's Previous Best Token** section.
+A typic launch scanner listing from [Contracts](contracts.md) that includes the **Dev's Previous Best Token** section plus another message below showing connected wallets and previous launches.
 
 {% hint style="info" %}
-**Top tip**
+**Tip:**
 
-Check hashes by selecting it within live listing. It then automatically searches Telegram through all previous messages.
-{% endhint %}
-
-{% hint style="success" %}
-**Get access**
-
-Follow the generated links by the DeFi-Robot Dapp as outlined within the [Access suite via Dapp](../../about/getting-started/2.-access-suite-via-dapp.md) section.
+Previous deployments with ~~strikethrough~~ are rugged. Validators blacklist these devs in DeFi-Robot so they won't appear in other launch scanners, but with Alpha Deployer the user decides if they want to interact with that token launch.
 {% endhint %}

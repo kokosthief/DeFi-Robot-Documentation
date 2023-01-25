@@ -9,7 +9,7 @@
 * [🔑 Tiers](about/tiers.md)
 * [🔊 Getting Started](about/getting-started/README.md)
   * [1. Swap ETH for DRBT](about/getting-started/1.-swap-eth-for-drbt.md)
-  * [2. Access suite via Dapp](about/getting-started/2.-access-suite-via-dapp.md)
+  * [2. Access Bots via Dapp](about/getting-started/2.-access-bots-via-dapp.md)
 
 ## utilities
 

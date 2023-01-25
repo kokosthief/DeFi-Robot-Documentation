@@ -23,6 +23,6 @@ For example, all listings that come through will provide contract simulation res
 {% hint style="success" %}
 **Get access**
 
-Follow the generated links by the DeFi-Robot Dapp as outlined within the [Access suite via Dapp](../../about/getting-started/2.-access-suite-via-dapp.md) section.
+Follow the generated links by the DeFi-Robot Dapp as outlined within the [Access suite via Dapp](../../about/getting-started/2.-access-bots-via-dapp.md) section.
 {% endhint %}
 

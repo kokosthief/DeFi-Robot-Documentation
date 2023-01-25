@@ -23,9 +23,3 @@ All listings from [Contracts](contracts.md) that include the **Dev's Previous Be
 
 Check hashes by selecting it within live listing. It then automatically searches Telegram through all previous messages.
 {% endhint %}
-
-{% hint style="success" %}
-**Get access**
-
-Follow the generated links by the DeFi-Robot Dapp as outlined within the [Access suite via Dapp](../../about/getting-started/2.-access-suite-via-dapp.md) section.
-{% endhint %}

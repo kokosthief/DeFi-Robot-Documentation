@@ -4,6 +4,12 @@ description: Stay on top of all newly listed contracts
 
 # Launch Scanners
 
+{% hint style="success" %}
+**Get access:**
+
+Follow the generated links from the **Dapp** as outlined in [Access Bots via Dapp](../../about/getting-started/2.-access-bots-via-dapp.md).
+{% endhint %}
+
 ## Live and dynamic listing channels of newly deployed contracts
 
 The most impressive part of DeFi-Robot are the live and dynamic launch scanners that list and filter all contract deployments on the **Ethereum**, **Binance Smart Chain** and **Arbitrum** blockchains.
