@@ -12,7 +12,7 @@ description: An intro for new users about the DeFi-Robot ecosystem.
 
 DeFi-Robot makes **trading** and **method sniping** easier by automating much of the analysis needed to safely trade in DeFi.
 
-<img src=".gitbook/assets/file.drawing.svg" alt="" class="gitbook-drawing">
+<img src=".gitbook/assets/file.drawing (1).svg" alt="" class="gitbook-drawing">
 
 Users are given access to advanced launch scanners for new contract deployment listings, contract simulators and bots to perform wallet and token analyses, as well as entry to exclusive group chats for advanced snipers and traders.
 

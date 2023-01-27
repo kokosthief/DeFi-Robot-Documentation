@@ -16,11 +16,11 @@ The most impressive part of DeFi-Robot are the live and dynamic launch scanners 
 
 ### There are four launch scanners
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Contracts</strong></td><td>Scans all newly deployed contracts on the blockchain with no filters or blacklists</td><td></td><td><a href="contracts.md">contracts.md</a></td></tr><tr><td><strong>Deployer</strong></td><td>Scans for contracts where the developer achieved a previous moonshot >50k</td><td></td><td><a href="deployer.md">deployer.md</a></td></tr><tr><td><strong>Awake</strong></td><td>Lists previously sleeping contracts which have awoken because of recent developer activity</td><td></td><td><a href="awake.md">awake.md</a></td></tr><tr><td><strong>Alpha Deployer</strong></td><td>Checks past deployer projects inc. connected wallets from 5 jumps away</td><td></td><td><a href="alpha-deployer.md">alpha-deployer.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Contracts</strong></td><td>Scans all newly deployed contracts on the blockchain with no filters or blacklists</td><td></td><td><a href="contracts.md">contracts.md</a></td></tr><tr><td><strong>Deployer</strong></td><td>Scans for contracts where the developer achieved a previous moonshot >50k</td><td></td><td><a href="deployer.md">deployer.md</a></td></tr><tr><td><strong>Awake</strong></td><td>Lists previously sleeping contracts which have awoken because of recent dev activity</td><td></td><td><a href="awake.md">awake.md</a></td></tr><tr><td><strong>Alpha Deployer</strong></td><td>Checks past deployer projects inc. connected wallets from 5 jumps away</td><td></td><td><a href="alpha-deployer.md">alpha-deployer.md</a></td></tr></tbody></table>
 
 ### Information presented via telegram can some or all of the following
 
-<img src="../../.gitbook/assets/file.drawing (6).svg" alt="" class="gitbook-drawing">
+<img src="../../.gitbook/assets/file.drawing.svg" alt="" class="gitbook-drawing">
 
 ## More information regarding certain sections:
 
@@ -53,6 +53,16 @@ Where the contract functions list and callable functions are hashed.
 Where the contract functions and the funding source of developer's wallet (Binance, Coinbase, ...) are hashed together.&#x20;
 
 Usually a dev use same DEX so could be useful to find all other contracts, with same hash, from same DEX.
+
+</details>
+
+<details>
+
+<summary>Suspicious &#x26; Rare Functions</summary>
+
+Alerts on suspicious or rare functions within the launch scanner to give more details on important functions that are usually only accessed with the list functions tool within [Contract Simulator](../analysis-tools/contract-simulator/) bot.&#x20;
+
+See a percentage of rugs there are where contracts have used specific functions. Also notifies users if the functions are completely new to the DeFi-Robot launch scanners indicating new code in the space.
 
 </details>
 
