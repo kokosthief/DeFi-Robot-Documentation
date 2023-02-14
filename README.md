@@ -5,7 +5,7 @@ description: An intro for new users about the DeFi-Robot ecosystem.
 # 👋 Welcome to DeFi-Robot
 
 {% hint style="info" %}
-**Update:** migration from BSC to ETH was a success. Read more [here](https://medium.com/@defi-robot/website-migration-2fba14214d9a).
+**Update:** You can now [trial](about/trial-nfts.md) our tools with an NFT before upgrading to a tier.
 {% endhint %}
 
 ## Welcome to the DeFi-Robot ecosystem!&#x20;
